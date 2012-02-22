@@ -1,0 +1,1 @@
+This project consists of some common extension methods written in C# for the .Net 4.0 framework.
